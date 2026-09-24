@@ -2,12 +2,12 @@
 permalink: /
 title: "Junteng Liu"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Junteng Liu (刘俊腾), a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.cn/), advised by [Professor Junxian He](https://jxhe.github.io/). I received my B.Eng. degree from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024, where I was also fortunate to be advised by Prof. Junxian He during my undergraduate studies.
+I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), advised by Professor Junxian He. I received my B.Eng. degree from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also fortunate to be advised by Prof. Junxian He during my undergraduate studies.
 
 My research focuses on **Natural Language Processing** and **Machine Learning**. My research interests include:
 
@@ -35,31 +35,31 @@ First-author papers are marked with *.
 
 ### 2025
 
-- *[SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://arxiv.org/abs/2505.17928)*  
+- *SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond*  
   **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
-  *Arxiv*, 2025. Code: [LJ1210/FLoRA](https://github.com/LJ1210/FLoRA)
+  *Arxiv*, 2025. Code available.
 
-- *[On the Perception Bottleneck of VLMs for Chart Understanding](https://arxiv.org/abs/2505.18424)*  
+- *On the Perception Bottleneck of VLMs for Chart Understanding*  
   **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
-  *Arxiv*, 2025. Code: [Vision4Chart](https://github.com/LJ1210/Vision4Chart)
+  *Arxiv*, 2025. Code: Vision4Chart.
 
 ### 2024
 
-- *[On the Universal Truthfulness Hyperplane Inside LLMs](https://aclanthology.org/2024.emnlp-main.813/)*  
+- *On the Universal Truthfulness Hyperplane Inside LLMs*  
   **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He  
-  *EMNLP 2024*. Code: [Universal_Truthfulness_Hyperplane](https://github.com/LJ1210/Universal_Truthfulness_Hyperplane)
+  *EMNLP 2024*. Code: Universal_Truthfulness_Hyperplane.
 
-- [In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation](https://proceedings.mlr.press/v235/chen24by.html)  
+- In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation  
   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
   *ICML 2024*
 
 ### 2023
 
-- [C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/669d6e8271ae6838c9d2c8500dcc2167-Abstract-Datasets_and_Benchmarks.html)  
+- C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models  
   Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He  
   *NeurIPS 2023*
 
-- [Composing Parameter-Efficient Modules with Arithmetic Operations](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ba2a042313d2365889a2dfc524edf605-Abstract-Conference.html)  
+- Composing Parameter-Efficient Modules with Arithmetic Operations  
   Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He  
   *NeurIPS 2023*
 
@@ -74,7 +74,7 @@ First-author papers are marked with *.
 
 ## Contact
 
-- **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- **GitHub:** [Vicent0205](https://github.com/Vicent0205)
-- **Google Scholar:** [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
-- **X (Twitter):** [@junteng88716710](https://twitter.com/junteng88716710)
+- **Email:** jliugi@connect.ust.hk
+- **GitHub:** Vicent0205 (https://github.com/Vicent0205)
+- **Google Scholar:** https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+- **X (Twitter):** @junteng88716710
